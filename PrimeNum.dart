@@ -1,4 +1,6 @@
 void main(){
+/*3.	Ask the user for a number and determine 
+whether the number is prime or not.*/
 //10 :1,2,,5,10(4 factorials)
 //7 : 1,7 (2 factorial)
 //The prime numbers from 1 to 100 are:

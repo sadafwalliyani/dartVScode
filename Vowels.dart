@@ -8,9 +8,8 @@ void main () {
    for (var i = 0; i <= vov.length; i++) {
      if (letter == vov[i]) {
        print("True");
-       } else {
-       print("False");
-     }
-   }
-
+       } else if (letter != vov[i]) 
+       
+       { print("False");}
+}
 }
